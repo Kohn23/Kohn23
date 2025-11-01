@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently an undergraduate student at University of Electronics Science and Technology of China. 
+
+🚧 **Experimental Status**: All repositories are experimental and may contain bugs or unexpected behavior. Use with caution!
+
+😜 **Have fun with my code!**
