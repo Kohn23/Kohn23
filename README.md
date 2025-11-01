@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently an undergraduate student at University of Electronics Science and Technology of China. 
+I'm currently an undergraduate student at University of Electronic Science and Technology of China. 
 
 🚧 **Experimental Status**: All repositories are experimental and may contain bugs or unexpected behavior. Use with caution!
 
