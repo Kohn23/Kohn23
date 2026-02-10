@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Kohn 👋
 
 <!--
 **Kohn23/Kohn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚧 **Experimental Status**: All repositories are experimental and may(most likely) contain bugs or unexpected behavior. Use with caution!
+🚧 **Experimental Status**: All repositories most likely contain bugs or unexpected behavior. Use with caution!
+
+## Naming Conventions
+- `*-project`: Repositories with this suffix are projects to which great effort is devoted, as they tend to be intricate and well-organized. Submodules are often involved.
+- `prac-*`: This prefix indicates that the repository is for practice only, including hands-on exercises from textbooks, solutions to algorithm problems, etc.
+- `LAB_*`: Repositories with this prefix fall somewhere between the previous two, typically containing a `uestc-lab/`  from my coursework.
