@@ -1,4 +1,4 @@
-## Hi there, I'm Kohn 👋
+# Hi there, I'm Kohn 👋
 
 <!--
 **Kohn23/Kohn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
